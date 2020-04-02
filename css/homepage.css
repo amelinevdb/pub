@@ -1,0 +1,17 @@
+
+
+#homesection{
+  background-image: url("../images/HOMEPAGE.jpg");
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#pg1{
+  width: 80px;
+  height: 350px;
+
+}
+#homesection .navbar{padding-top:2.2vh;padding-bottom:2.2vh;}
